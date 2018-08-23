@@ -1,6 +1,6 @@
 
 
-Nielsen App Api Release Notes
+Nielsen App Sdk Release Notes
 ******************************************************************************************************
 
 Release 6.0.0.4 (5-24-2018)
@@ -19,19 +19,5 @@ Release 5.1.1.26 (7-31-2017)
 - Merged adModel and adLoadType flags
 - Fix for stop event data carried to next session’s duration ping
 - Fix for last playhead call that is not processed (when there is no time-gap between the last playhead and end call)
-
-
-Release 5.1.1.24 (6-2-2017)
-
-- Enhanced support for Digital Audio
-- Ability to pass adloadtype as “linear” or “dynamic”
-- Ability to detect end of content and static material through duration pings
-- Acceptance of empty parameters with a warning message triggered, if a required parameter is missing
-- Acceptance of case-insensitive JSON key values
-- Configurable feature to show Ad view counts in the duration pings
-- Automatic Pause Detection and Debug build detection
-- Change of default ‘type’ from “ad” to “content”
-- Removal of “Static” Launch Ping for Non-Static product implementations
-- Fix for metadata carry over between channels after a channel change
 
 ******************************************************************************************************
