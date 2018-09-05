@@ -2,6 +2,13 @@
 
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
+Release 6.1.0.1 (08-31-2018)
+
+- Added new RTVOD feature.
+- Davty enhancements for DTVR and DRM.
+- Fix for static type independent of other types(content&ad).
+- Fix for auto-stop called on DTVR when there is a type change on DCR with hybrid approach.
+- Fix for sesid(c59) reporting as 0 when forward or backward slashes were present in the assetid with url encoded in the CMS mapping.
 
 Release 6.0.0.4 (5-24-2018)
 
