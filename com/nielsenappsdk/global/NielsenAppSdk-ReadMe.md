@@ -2,13 +2,25 @@
 
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
+Release 7.0.0.0 (09-06-2019)
+
+- Support for CDN based config.
+- Support for Market based EMM UAID pings.
+- Changes required for proper DCR Static measurement in multi-instance/multiple appid's case.
+- Fixes for OTT synchronization issues between iOS and Android platforms.
+- Fixes for EV data parameters in few scenarios.
+- Fixes for DCR Static product behaviour in background app refresh and background fetch scenarios.
+- DCR Ad reporting improvements.
+- Fixes and improvements for the SDK console log messages.
+- Other enhancements and fixes.
+
 Release 6.2.0.0 (02-04-2019)
 
 - Removal of Location Module from SDK Code.
 - Fixed the getOptoutStatus() api, so that client can call it in main thread.
 - Fixed the parsing error happening when clientid/vcid provided as empty in metadata.
 - Align AppSDK for FW detection with BSDK for DCR measurement.
-- Other enhancement and fixes.
+- Other enhancements and fixes.
 
 Release 6.1.0.1 (08-31-2018)
 
