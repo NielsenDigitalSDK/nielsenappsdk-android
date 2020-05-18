@@ -1,6 +1,6 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
-Release 7.2.0.0 (18-05-2020)
+Release 7.2.0.0 (05-18-2020)
 
 . DTVR AQH and IVD requirements for End and pause timeout
 . Support for Hybrid app webview measurement
