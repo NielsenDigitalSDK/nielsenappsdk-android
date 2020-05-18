@@ -1,0 +1,6 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.nielsenappsdk</groupId>
+    <artifactId>global</artifactId>
+    <version>7.2.0.0</version>
+</project>

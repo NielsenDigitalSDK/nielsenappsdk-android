@@ -1,5 +1,13 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
+Release 7.2.0.0 (18-05-2020)
+
+. DTVR AQH and IVD requirements for End and pause timeout
+. Support for Hybrid app webview measurement
+. Support for Hybrid app react native webview measurement
+. Support for react native measurement
+. Other Bug Fixes and Enhancements
+
 Release 7.1.0.0 (12-9-2019)
 
 . Application background/foreground state auto-detection (AndroidX)
@@ -33,5 +41,7 @@ Release 6.0.0.4 (5-24-2018)
 . Support for multiple SDK instance without any limit.
 . New log feature for CAT tool to retrieve the API level information from client apps. This ping will         contain the eventType, parameters, SDK version, appid etc.
 . Removed Viewability for this release.
+
+For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
 ******************************************************************************************************
