@@ -1,5 +1,12 @@
 Nielsen App Sdk Release Notes 
 ******************************************************************************************************
+Release 8.0.0.0 (10-05-2020)
+
+- FPID and VendorID support.
+- Support for Android apps running on ChromeOS.
+- Support for Xamarin cross platform framework.
+- Other bug fixes and enhancements.
+
 Release 7.2.0.0 (05-18-2020)
 
 . DTVR AQH and IVD requirements for End and pause timeout
