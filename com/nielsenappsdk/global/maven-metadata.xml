@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="4.0.0">
   <groupId>com.nielsenappsdk</groupId>
   <artifactId>global</artifactId>
-  <version>8.0.0.0</version>
+  <version>test.jenkins.github.deployment</version>
   <versioning>
-    <latest>8.0.0.0</latest>
-    <release>8.0.0.0</release>
+    <latest>test.jenkins.github.deployment</latest>
+    <release>test.jenkins.github.deployment</release>
     <versions>
-        <version>5.1.1.26</version>
+        <version>test.jenkins.github.deployment</version><version>5.1.1.26</version>
         <version>6.0.0.4</version>
         <version>6.1.0.1</version>
         <version>6.2.0.0</version>
@@ -16,6 +15,6 @@
         <version>7.2.0.0</version>
         <version>8.0.0.0</version>
     </versions>
-    <lastUpdated>20201005142320</lastUpdated>
+    <lastUpdated>20210115034249</lastUpdated>
   </versioning>
 </metadata>

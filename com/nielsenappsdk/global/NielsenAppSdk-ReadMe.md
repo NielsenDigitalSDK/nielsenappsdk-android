@@ -1,5 +1,11 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
+Release test.jenkins.github.deployment (01-15-2021)
+
+- Deploying changes to internal branch
+- On production repo
+- then check in gradle
+
 Release 8.0.0.0 (10-05-2020)
 
 . FPID and VendorID support.
