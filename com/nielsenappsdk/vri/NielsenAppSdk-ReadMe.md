@@ -1,11 +1,5 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
-Release test.jenkins.github.deployment (01-15-2021)
-
-- Deploying changes to internal branch
-- On production repo
-- then check in gradle
-
 Release 7.2.0.0 (05-18-2020)
 
 . DTVR AQH and IVD requirements for End and pause timeout

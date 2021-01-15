@@ -1,12 +1,12 @@
 <metadata modelVersion="4.0.0">
   <groupId>com.nielsenappsdk</groupId>
   <artifactId>globalx</artifactId>
-  <version>test.jenkins.github.deployment</version>
+  <version>8.0.0.0</version>
   <versioning>
-     <latest>test.jenkins.github.deployment</latest>
-    <release>test.jenkins.github.deployment</release>
+     <latest>8.0.0.0</latest>
+    <release>8.0.0.0</release>
     <versions>
-        <version>test.jenkins.github.deployment</version><version>7.1.0.0</version>
+        <version>7.1.0.0</version>
         <version>7.2.0.0</version>
         <version>8.0.0.0</version>
     </versions>
