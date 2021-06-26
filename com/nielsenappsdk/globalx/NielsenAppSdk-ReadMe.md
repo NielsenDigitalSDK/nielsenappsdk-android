@@ -1,6 +1,6 @@
 Nielsen App Sdk Release Notes 
 ******************************************************************************************************
-Release 8.1.0.0 (06-29-2021)
+Release 8.1.0.0 (06-28-2021)
 
 - Support for SDK build variants - AD/NoAD/NoID.
 - Support to indicate ID used for AD build variant - AD ID vs Android ID.
