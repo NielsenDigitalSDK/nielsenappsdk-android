@@ -1,5 +1,5 @@
 # nielsenappsdk-android
-Nielsen app sdk repository for distributing android sdk releases as a gradle dependency.
+Nielsen app sdk repository to distribute android sdk releases as a gradle dependency.
 
 ## Installation
 Nielsen AppSDK Android can be installed by following the steps mentioned [here](https://engineeringportal.nielsen.com/docs/Digital_Measurement_Android_Artifactory_Guide)
