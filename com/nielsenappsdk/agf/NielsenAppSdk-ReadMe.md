@@ -1,6 +1,5 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
-
 Release 8.2.0.0 (03-21-2022)
 
 - Support for EMM AGF AdID-less solution.
