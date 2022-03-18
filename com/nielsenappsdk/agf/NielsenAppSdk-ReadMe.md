@@ -1,5 +1,13 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
+Release 8.2.0.0 (21-03-2022)
+
+
+- Support for EMM AGF AdID-less solution.
+- Enabled SDK to capture network availability changes.
+- Removed the usage of deprecated network classes.
+- Other bug fixes and enhancements.
+
 Release 8.2.0.0 (03-21-2022)
 
 - Support for EMM AGF AdID-less solution.
