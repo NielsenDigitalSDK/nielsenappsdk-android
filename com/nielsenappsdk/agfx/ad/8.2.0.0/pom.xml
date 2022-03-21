@@ -4,9 +4,3 @@
 <artifactId>ad</artifactId>
 <version>8.2.0.0</version>
 </project>
-<project>
-<modelVersion>4.0.0</modelVersion>
-<groupId>com.nielsenappsdk.agfx</groupId>
-<artifactId>ad</artifactId>
-<version>8.2.0.0</version>
-</project>
