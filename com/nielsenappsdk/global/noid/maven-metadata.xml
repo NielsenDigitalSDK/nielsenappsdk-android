@@ -1,11 +1,11 @@
 <metadata modelVersion="4.0.0">
   <groupId>com.nielsenappsdk.global</groupId>
   <artifactId>noid</artifactId>
-  <version>8.1.0.0</version>
+  <version>8.2.0.0</version>
   <versioning>
-    <latest>8.1.0.0</latest>
-    <release>8.1.0.0</release>
-    <versions><version>8.1.0.0</version></versions>
-    <lastUpdated>20210625114257</lastUpdated>
+    <latest>8.2.0.0</latest>
+    <release>8.2.0.0</release>
+    <versions><version>8.2.0.0</version><version>8.1.0.0</version></versions>
+    <lastUpdated>20220321041623</lastUpdated>
   </versioning>
 </metadata>
