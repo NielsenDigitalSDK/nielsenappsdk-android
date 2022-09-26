@@ -2,5 +2,5 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.nielsenappsdk</groupId>
 <artifactId>globalx</artifactId>
-<version>9.0.0.beta</version>
+<version>9.0.0.0</version>
 </project>
