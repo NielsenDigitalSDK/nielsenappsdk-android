@@ -1,11 +1,12 @@
 <metadata modelVersion="4.0.0">
   <groupId>com.nielsenappsdk</groupId>
   <artifactId>globalx</artifactId>
-  <version>8.2.0.0</version>
+  <version>9.0.0.beta</version>
   <versioning>
-    <latest>8.2.0.0</latest>
-    <release>8.2.0.0</release>
+    <latest>9.0.0.beta</latest>
+    <release>9.0.0.beta</release>
     <versions>
+        <version>9.0.0.beta</version>
         <version>8.2.0.0</version><version>8.1.0.0</version><version>8.0.0.0</version>
         <version>7.1.1.0</version>
         <version>7.1.0.0</version>
