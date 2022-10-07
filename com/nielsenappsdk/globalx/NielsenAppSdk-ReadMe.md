@@ -1,5 +1,16 @@
 Nielsen App Sdk Release Notes 
 ******************************************************************************************************
+Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin language interoperable with existing java code. Please add Kotlin support dependency in your Java only app, to take advantage of these module/features as below: 
+
+ org.jetbrains.kotlin:kotlin-stdlib 
+
+Release 9.0.0.0 (10-07-2022)
+
+. Viewability measurement for DTVR, DCR Content and DCR Ad products. 
+. Audibility measurement for DTVR, DCR Content and DCR Ad products.
+. Kotlin-Java interoperability implementation in SDK.
+. Other bug fixes and enhancements.
+
 Release 8.2.0.0 (03-21-2022)
 
 . Support for EMM AGF AdID-less solution.
