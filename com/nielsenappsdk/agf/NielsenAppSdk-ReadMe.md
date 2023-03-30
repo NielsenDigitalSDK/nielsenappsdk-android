@@ -4,6 +4,12 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
+Release 9.1.0.0 (03-31-2023)
+
+. DCR Static duration measurement for individual page section/assets.
+. Support to enable Viewability feature by product (DCR, DTVR).
+. Other bug fixes and enhancements.
+
 Release 9.0.0.0 (10-07-2022)
 
 . Viewability measurement for DTVR, DCR Content and DCR Ad products. 
