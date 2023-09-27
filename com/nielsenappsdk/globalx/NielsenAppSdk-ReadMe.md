@@ -4,6 +4,12 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
+Release 9.2.0.0 (09-27-2023)
+
+. DCR Static recognizing metadata with changed assetID for new impressions.
+. Limiting ping retries during https failures.
+. Other bug fixes and enhancements.
+
 Release 9.1.0.0 (03-31-2023)
 
 . DCR Static duration measurement for individual page section/assets.
