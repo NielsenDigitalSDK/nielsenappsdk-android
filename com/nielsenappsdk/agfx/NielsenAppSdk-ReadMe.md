@@ -4,6 +4,10 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
+Release 9.3.0.0 (05-10-2024)
+
+. Support for capturing user opt-out during initialization.
+
 Release 9.2.0.0 (09-27-2023)
 
 . DCR Static recognizing metadata with changed assetID for new impressions.
