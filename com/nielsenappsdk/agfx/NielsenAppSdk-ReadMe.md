@@ -4,6 +4,14 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
+Nielsen SDK 9.4.0.0 is compiled with Kotlin 1.8.0, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module. 
+
+Release 9.4.0.0 (07-09-2024)
+
+. Support for content tracking and no-tracking domains across sdk flavors and products.
+. Upgraded SDK to use Java 11 and Kotlin 1.8.0.
+. Other bug fixes and enhancements.
+
 Release 9.3.0.0 (05-10-2024)
 
 . Support for capturing user opt-out during initialization.
