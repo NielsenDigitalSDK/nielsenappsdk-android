@@ -4,7 +4,15 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
-Nielsen SDK 9.4.0.0 is compiled with Kotlin 1.8.0, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module. 
+Nielsen SDK 9.4.0.0 and above is compiled with Kotlin 1.8.0, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module. 
+
+Release 10.0.0.0 (04-04-2025)
+
+. Support for DTVR Subminute product.
+. Support for DCR Video Playhead Bridging.
+. Support for Ethernet network connection for TV platforms.
+. Change in DemographicID behavior for Chromecast.
+. Other bug fixes and enhancements.
 
 Release 9.4.0.0 (07-09-2024)
 
