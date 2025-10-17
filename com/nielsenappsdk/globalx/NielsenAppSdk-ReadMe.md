@@ -4,7 +4,13 @@ Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin la
 
  org.jetbrains.kotlin:kotlin-stdlib 
 
-Nielsen SDK 9.4.0.0 and above is compiled with Kotlin 1.8.0, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module. 
+Nielsen SDK 9.4.0.0 and 10.1.0.0 are compiled with Kotlin 1.8.0 and 1.9.22 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
+
+Release 10.1.0.0 (10-17-2025)
+
+. Support for FPID multi-instance integrations.
+. Support for Flutter cross-platform plugin.
+. Other bug fixes and enhancements. 
 
 Release 10.0.0.0 (04-04-2025)
 
