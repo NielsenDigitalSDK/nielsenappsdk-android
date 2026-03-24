@@ -1,10 +1,16 @@
 Nielsen App Sdk Release Notes
 ******************************************************************************************************
-Note: Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin language interoperable with existing java code. Please add Kotlin support dependency in your Java only app, to take advantage of these module/features as below: 
+Note:
+1. Starting Nielsen SDK 10.2.0.0, the 'WorkManager' library is a mandatory dependency and missing it will fail the AppSDK initialisation. Please add the 'androidx.work:work-runtime' dependency into your app.
+2. Nielsen SDK 9.4.0.0 and 10.1.0.0 are compiled with Kotlin 1.8.0 and 1.9.22 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
+3. Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin language interoperable with existing java code. Please add Kotlin support dependency 'org.jetbrains.kotlin:kotlin-stdlib' in your Java only app, to take advantage of these module/features.
 
- org.jetbrains.kotlin:kotlin-stdlib 
+Release 10.2.0.0 (03-24-2026)
 
-Nielsen SDK 9.4.0.0 and 10.1.0.0 are compiled with Kotlin 1.8.0 and 1.9.22 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
+. Mitigation of Android 15 background network access restrictions.
+. Fixed Viewabiity defects.
+. Fixed Ad length warning message.
+. Other bug fixes and enhancements.
 
 Release 10.1.0.0 (10-17-2025)
 
