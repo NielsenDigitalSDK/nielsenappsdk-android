@@ -7,7 +7,8 @@ Note:
 
 Release 10.2.1.0 (07-23-2026)
 
-. Addressed the WorkManager exception caused due to the usage of setExpedited() method on Android OS < 12.
+. Addressed the WorkManager exception caused due to the usage of setExpedited() method on Android 11 and lower.
+. Resolved the IllegalAccessException issue happening due to the legacy ART reflection system strictly enforcing package boundaries on Android 9 and below while blocking access to non-public constructors i.e AppHttpClientWorker class of AppSDK.
 
 Release 10.2.0.0 (03-24-2026)
 
