@@ -5,6 +5,11 @@ Note:
 2. Nielsen SDK 9.4.0.0 and 10.1.0.0 are compiled with Kotlin 1.8.0 and 1.9.22 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
 3. Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin language interoperable with existing java code. Please add Kotlin support dependency 'org.jetbrains.kotlin:kotlin-stdlib' in your Java only app, to take advantage of these module/features.
 
+Release 10.2.1.0 (07-23-2026)
+
+. Addressed the WorkManager exception caused due to the usage of setExpedited() method on Android 11 and lower.
+. Resolved the IllegalAccessException issue happening due to the legacy ART reflection system strictly enforcing package boundaries on Android 9 and below while blocking access to non-public constructors i.e AppHttpClientWorker class of AppSDK.
+
 Release 10.2.0.0 (03-24-2026)
 
 . Mitigation of Android 15 background network access restrictions.
