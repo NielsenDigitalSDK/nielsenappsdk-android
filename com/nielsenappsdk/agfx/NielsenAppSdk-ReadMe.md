@@ -2,8 +2,16 @@ Nielsen App Sdk Release Notes
 ******************************************************************************************************
 Note:
 1. Starting Nielsen SDK 10.2.0.0, the 'WorkManager' library is a mandatory dependency and missing it will fail the AppSDK initialisation. Please add the 'androidx.work:work-runtime' dependency into your app.
-2. Nielsen SDK 9.4.0.0 and 10.1.0.0 are compiled with Kotlin 1.8.0 and 1.9.22 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
+2. Nielsen SDK 9.4.0.0, 10.1.0.0 and 11.0.0.0 are compiled with Kotlin 1.8.0, 1.9.22 and 2.1.10 respectively, please align Kotlin version in your app to avoid any incompatibility issues between app and sdk module.
 3. Starting Nielsen SDK 9.0.0.0 new modules/features are written in Kotlin language interoperable with existing java code. Please add Kotlin support dependency 'org.jetbrains.kotlin:kotlin-stdlib' in your Java only app, to take advantage of these module/features.
+
+Release 11.0.0.0 (10-16-2026)
+
+. Updated SDK with compileSdk - 37, targetSdkVersion - 37, Java 17 and Kotlin 2.1.10.
+. Added FL/PFL (Flush/previous flush) events to the DCR event data in timer pings.
+. Updated the timestamps of DCR event data from milliseconds to seconds.
+. Standardized the error ping format across app and browser SDK(s).
+. Other bug fixes and enhancements.
 
 Release 10.2.1.0 (07-23-2026)
 
